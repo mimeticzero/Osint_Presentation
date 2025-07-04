@@ -43,7 +43,7 @@ Projet porté par un analyste freelance OSINT (profil technique : dev/QA reconve
 
 Pour commander une offre ou poser une question :  
 📮 mimeticzero@protonmail.com  
-🌐 [GitHub](https://github.com/mimeticZero) – [Ko-fi](https://ko-fi.com/mimeticzero) – [Notion](#)
+🌐 [GitHub](https://github.com/mimeticZero) – [Ko-fi](https://ko-fi.com/mimeticzero) – [Notion](https://nickel-cress-2fe.notion.site/MimeticZero-Freelance-OSINT-Analyst-226539e78ced804b870aed4cd93cea77?source=copy_link)
 
 > 🕵️ Tous les services sont confidentiels, 100 % légaux, et réalisés à distance.
 ---
