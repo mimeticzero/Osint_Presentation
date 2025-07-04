@@ -45,7 +45,7 @@ Project maintained by a freelance OSINT analyst (technical background: former de
 
 To request a service or ask a question:  
 📮 mimeticzero@protonmail.com  
-🌐 [GitHub](https://github.com/mimeticZero) – [Ko-fi](https://ko-fi.com/mimeticzero) – [Notion](#)
+🌐 [GitHub](https://github.com/mimeticZero) – [Ko-fi](https://ko-fi.com/mimeticzero) – [Notion](https://nickel-cress-2fe.notion.site/MimeticZero-Freelance-OSINT-Analyst-226539e78ced804b870aed4cd93cea77?source=copy_link)
 
 
 > “The best source is the one everyone overlooks.” – OSINT Anonymous
