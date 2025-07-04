@@ -41,10 +41,11 @@ All investigations in this repository:
 
 ## 📬 Contact
 
-Project maintained by a freelance OSINT analyst (technical background: former developer/QA), currently operating in test phase.
+Project maintained by a freelance OSINT analyst (technical background: former developer/QA).
 
-A full public and professional version will be released under a separate brand by late 2025.
+To request a service or ask a question:  
+📮 mimeticzero@protonmail.com  
+🌐 [GitHub](https://github.com/mimeticZero) – [Ko-fi](https://ko-fi.com/mimeticzero) – [Notion](#)
 
-📧 Reach me at: **mimeticzero@protonmail.com**
 
 > “The best source is the one everyone overlooks.” – OSINT Anonymous
