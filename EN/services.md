@@ -85,6 +85,6 @@ Each investigation is based solely on public data and delivered as a structured,
 
 To request a service or ask a question:  
 📮 mimeticzero@protonmail.com  
-🌐 [GitHub](https://github.com/mimeticZero) – [Ko-fi](https://ko-fi.com/mimeticzero) – [Notion](#)
+🌐 [GitHub](https://github.com/mimeticZero) – [Ko-fi](https://ko-fi.com/mimeticzero) – [Notion](https://nickel-cress-2fe.notion.site/MimeticZero-Freelance-OSINT-Analyst-226539e78ced804b870aed4cd93cea77?source=copy_link)
 
 > 🕵️ All services are confidential, fully legal, and conducted remotely.
