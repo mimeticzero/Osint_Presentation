@@ -39,12 +39,13 @@ Toutes les recherches menées via cette méthodologie :
 
 ## 📬 Contact
 
-Projet porté par un analyste freelance OSINT (profil technique : dev/QA reconverti), actuellement en test privé.
+Projet porté par un analyste freelance OSINT (profil technique : dev/QA reconverti).
 
-Une version publique et professionnelle sera proposée sous un nom de marque séparé d’ici fin 2025.
+Pour commander une offre ou poser une question :  
+📮 mimeticzero@protonmail.com  
+🌐 [GitHub](https://github.com/mimeticZero) – [Ko-fi](https://ko-fi.com/mimeticzero) – [Notion](#)
 
-📧 Pour toute question : mimeticzero@protonmail.com
-
+> 🕵️ Tous les services sont confidentiels, 100 % légaux, et réalisés à distance.
 ---
 
 > “La meilleure source, c’est celle que tout le monde ignore.” – Anonyme OSINT
