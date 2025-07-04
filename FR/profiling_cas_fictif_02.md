@@ -50,8 +50,7 @@ Analyse d’un DM Instagram reçu via le compte @hannah.guy_ig, soupçonné de f
 ## 4. Visualisation des connexions
 
 *Voir graphe Maltego joint :
-
----![hazel_dee](https://github.com/user-attachments/assets/227b20cd-c2e6-46ce-8bc5-182e4b6a308e)
+![Capture d'écran 2025-07-01 222542](https://github.com/user-attachments/assets/08994388-70e6-413c-a894-ffb2ca5c8af7)
 
 
 ## 5. 🧑‍💻 Analyse du compte Instagram
