@@ -14,7 +14,7 @@ Build a solid foundation to:
 
 ---
 
-## 🧰 Repository Content – EN
+## 🧰 Repository Content – EN (same in the french repo FR)
 
 | File / Folder               | Description                                      |
 |----------------------------|--------------------------------------------------|
