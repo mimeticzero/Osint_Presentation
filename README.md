@@ -35,9 +35,6 @@ All investigations in this repository:
 - Are not intended to harm, harass, or expose any target
 - Respect French and EU laws (GDPR, Penal Code, etc.)
 
-> 🟡 This project is exploratory and educational.  
-> No report in this repository was created for a real paying client.
-
 ---
 
 ## 📬 Contact
