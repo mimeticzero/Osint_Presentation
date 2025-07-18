@@ -56,7 +56,7 @@
 ⚠️ Aucun de ces numéros n’est officiellement confirmé comme appartenant à Garrett, mais **tous deux sont associés à son environnement familial**.
 
 ### 4. 🌐 Réseaux & présence en ligne
-- **Facebook** : Compte actif [facebook.com/GXXXXXt.seals.SXXls](https://www.facebook.com/GXXXXXt.SXXls.2024) — peu de publications visibles, amis publics. Photo de profil assez récente.
+- **Facebook** : Compte actif [facebook.com/GXXXXXt.sXXls.SXXls](https://www.facebook.com/GXXXXXt.SXXls.2024) — peu de publications visibles, amis publics. Photo de profil assez récente.
 - **Medium** : Profil [GXXXXXt.medium.com](https://medium.com/@GXXXXXt) — aucune activité récente.
 - **Amazon** : Livre publié sous le nom “GXXXXXt L SXXls” : *HIDDEN* (2024) — semble confirmer la présence dans le Colorado.
 
