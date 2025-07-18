@@ -16,13 +16,13 @@ Build a solid foundation to:
 
 ## 🧰 Repository Content – EN / FR (Real & Fictional Cases)
 
-| English File                         | Case Title                                               | Fichier FR correspondant                  |
-|-------------------------------------|-----------------------------------------------------------|-------------------------------------------|
-| `Real_case_randomized_01.md`        | Locating a Personal Contact in the United States          | `profiling_cas_reel_anonymiser_01.md`     |
-| `profiling_case_01.md`              | Locating a Personal Contact in the United States          | `profiling_cas_fictif_01.md`              |
-| `profiling_case_02.md`              | Fictional Profile: “Léa V.”                               | `profiling_cas_fictif_02.md`              |
-| `profiling_case_03.md`              | Analysis of Redirection to OnlyFans Content               | `profiling_cas_fictif_03.md`              |
-| `profiling_case_04.md`              | [Anonymous client – online flower order issue]            | `profiling_cas_fictif_04.md`              |
+| Repo EN – File Name                | Case Title                                               | Repo FR – Fichier correspondant            |
+|-----------------------------------|-----------------------------------------------------------|--------------------------------------------|
+| `Real_case_randomized_01.md`      | Locating a Personal Contact in the United States          | `profiling_cas_reel_anonymiser_01.md`      |
+| `profiling_case_01.md`            | Locating a Personal Contact in the United States          | `profiling_cas_fictif_01.md`               |
+| `profiling_case_02.md`            | Fictional Profile: “Léa V.”                               | `profiling_cas_fictif_02.md`               |
+| `profiling_case_03.md`            | Analysis of Redirection to OnlyFans Content               | `profiling_cas_fictif_03.md`               |
+| `profiling_case_04.md`            |  [Anonymous client – online flower order issue]           | `profiling_cas_fictif_04.md`         |
 
 ---
 
