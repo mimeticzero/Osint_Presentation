@@ -95,4 +95,4 @@ Aucune trace de compte LinkedIn, Indeed ou autre profil professionnel (notamment
 
 > Ce rapport est basé uniquement sur des données publiques et légales, sans interaction directe avec la cible.  
 > Les informations fournies ne sont pas des preuves formelles mais des **éléments d’orientation OSINT**, pouvant aider dans des démarches juridiques ou familiales.  
-> Il n’est pas garanti que Garrett Seals réside encore à cette adresse, mais **aucune trace d’un autre Garrett Luke Seals plus probable n’a été trouvée aux États-Unis.**
+> Il n’est pas garanti que GXXXXXt L SXXls réside encore à cette adresse, mais **aucune trace d’un autre GXXXXXt L SXXls plus probable n’a été trouvée aux États-Unis.**
