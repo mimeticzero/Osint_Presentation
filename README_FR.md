@@ -32,8 +32,6 @@ Toutes les recherches menées via cette méthodologie :
 - Ne sont pas utilisées pour nuire ou harceler une cible
 - Respectent la législation française et européenne (RGPD, code pénal, etc.)
 
-> 🟡 Ce projet est pédagogique et exploratoire.  
-> Aucun rapport dans ce dépôt n’a été généré à la demande d’un client réel.
 
 ---
 
