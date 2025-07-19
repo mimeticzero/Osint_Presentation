@@ -13,14 +13,16 @@ Créer une base de travail solide pour :
 
 ---
 
-## 🧰 Contenu du dépôt -FR
+## 🧰 Repository Content – EN / FR (Real & Fictional Cases)
 
-| Dossier / fichier | Description |
-|------------------|-------------|
-| `tools.md` | Répertoire d’outils OSINT testés, triés par usage |
-| `rapport_template.md` | Modèle de rapport réutilisable (client / fictif) |
-| `profiling_cas_fictif_01.md` | Étude de cas complète sur un faux profil |
-| `profiling_cas_fictif_02.md` | Étude de cas complète sur un faux profil |
+| Repo EN – File Name                               | Case Title                                               | Repo FR – Fichier correspondant                             |
+|---------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------|
+| [Real_case_randomized_01.md](EN/Real_case_randomized_01.md) | Locating a Personal Contact in the United States          | [profiling_cas_reel_anonymiser_01.md](FR/profiling_cas_reel_anonymiser_01.md) |
+| [profiling_case_01.md](EN/profiling_case_01.md)   | Locating a Personal Contact in the United States          | [profiling_cas_fictif_01.md](FR/profiling_cas_fictif_01.md) |
+| [profiling_case_02.md](EN/profiling_case_02.md)   | OSINT Report – Fictional Profile: “Léa V.”                | [profiling_cas_fictif_02.md](FR/profiling_cas_fictif_02.md) |
+| [profiling_case_03.md](EN/profiling_case_03.md)   | Analysis of Redirection to OnlyFans Content               | [profiling_cas_fictif_03.md](FR/profiling_cas_fictif_03.md) |
+| [profiling_case_04.md](EN/profiling_case_04.md)   | OSINT Report – Anonymous Client (online flower order)     | [profiling_cas_fictif_04.md](FR/profiling_cas_fictif_04.md) |
+
 
 ---
 
