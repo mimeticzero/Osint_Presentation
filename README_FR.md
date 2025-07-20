@@ -7,7 +7,7 @@ Ce dépôt contient mes outils, modèles et études de cas pour la réalisation 
 ## 📌 Objectif
 
 Créer une base de travail solide pour :
-- Conduire des **missions de profiling numérique**
+- Réaliser des **missions de profiling numérique**
 - Structurer une **démarche professionnelle d’analyse**
 - Produire des **rapports clairs, exploitables et sans interaction avec la cible**
 
@@ -34,6 +34,48 @@ Toutes les recherches menées via cette méthodologie :
 - Ne sont pas utilisées pour nuire ou harceler une cible
 - Respectent la législation française et européenne (RGPD, code pénal, etc.)
 
+---
+
+##🎯 Services proposés :
+En tant que freelance OSINT, j’aide particuliers et organisations à enquêter sur :
+ - Des profils suspects ou anonymes
+ - Des traces numériques et comportements en ligne
+ - Des arnaques e-commerce ou crypto / NFT
+ - La réputation ou légitimité de vendeurs ou entreprises
+ - Des escroqueries liées à la Chine (fournisseurs, boutiques, faux contacts)
+
+---
+
+##🔍 Services disponibles à la demande
+
+### ✅ Scan de profil rapide
+⏱️ Délai : 48h
+
+Analyse express d’un profil douteux (Instagram, Telegram, Tinder, etc.)
+
+→ Recherche d’images inversées, analyse comportementale, empreintes publiques, rapport PDF.
+
+### 🧠 Audit numérique complet
+
+⏱️ Délai : 3–4 jours
+
+Analyse de 1 à 3 identités liées (réseaux, leaks, historique, incohérences)
+
+→ Reconstruction de timeline, multi-plateforme, rapport structuré.
+
+### 📌 Profilage avancé & cartographie réseau
+
+⏱️ Délai : 5–7 jours
+
+Enquête poussée avec visualisation réseau, analyses croisées, hypothèses
+
+→ Graph de liens (type Maltego), analyse de redirection, annexes & captures.
+
+### ♻️ Veille mensuelle
+
+Surveillance continue d’un compte ou d’une cible (ou auto-veille)
+
+→ Alertes sur PimEyes, fuites, nom d’utilisateur, e-mail, synthèse mensuelle.
 
 ---
 
