@@ -79,6 +79,27 @@ Surveillance continue d’un compte ou d’une cible (ou auto-veille)
 
 ---
 
+## 🇨🇳 Arnaques liées à la Chine & vérification e-commerce
+
+⏱️ Délai : 2–4 jours
+
+Je suis spécialisé dans les enquêtes liées à la Chine, notamment :
+
+Cas fréquents :
+- Commande passée sur un site chinois (AliExpress, DHgate, vendeur privé) non reçue
+- Faux fournisseur ou partenaire dropshipping sur Alibaba / WeChat
+- Vérification de l'existence d’une entreprise chinoise ou de sa légitimité
+Méthodes utilisées :
+- Recherche d’entreprise dans les bases chinoises (Tianyancha, Qichacha…)
+- Vérification d’identité WeChat / QQ / Weibo
+- Analyse de domaine (WHOIS, hébergement, licence ICP…)
+- Analyse de lien entre boutique, produit et expédition
+- Rapport PDF (FR ou EN) avec captures annotées
+
+Bonus : j’ai vécu en Chine, j’utilise les plateformes natives avec un numéro local, et parle un peu le mandarin.
+
+---
+
 ## 📬 Contact
 
 Projet porté par un analyste freelance OSINT (profil technique : dev/QA reconverti).
