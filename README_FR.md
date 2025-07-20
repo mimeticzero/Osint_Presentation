@@ -97,7 +97,7 @@ Méthodes utilisées :
 - Analyse de lien entre boutique, produit et expédition
 - Rapport PDF (FR ou EN) avec captures annotées
 
-Bonus : j’ai vécu en Chine, j’utilise les plateformes natives avec un numéro local, et parle un peu le mandarin.
+> Bonus : j’ai vécu en Chine, j’utilise les plateformes natives avec un numéro local, et parle un peu le mandarin.
 
 ---
 
