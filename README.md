@@ -36,22 +36,22 @@ As an OSINT freelancer, I help individuals and organizations investigate:
 
 ---
 ## 🔍 Available Services (On-Demand)
-# ✅ Quick Profile Scan
+### ✅ Quick Profile Scan
 ⏱️ Delivery: 48h
 Audit of a suspicious social media or dating profile
 → Reverse image search, behavioral patterns, username/email trace, PDF report.
 
-#🧠 Full Digital Audit
+###🧠 Full Digital Audit
 ⏱️ Delivery: 3–4 days
 Analysis of up to 3 linked identities/accounts
 → Timeline reconstruction, cross-platform checks, inconsistencies, structured report.
 
-#📌 Deep Profiling & Network Mapping
+###📌 Deep Profiling & Network Mapping
 ⏱️ Delivery: 5–7 days
 Investigation with relationship graphing and digital trace mapping
 → Redirect analysis, leaks, metadata review, annexed evidence.
 
-#♻️ Monthly Monitoring
+###♻️ Monthly Monitoring
 Ongoing watch on an identity (self or target)
 → PimEyes scan, leak alerting, email/username watch, monthly digest.
 
