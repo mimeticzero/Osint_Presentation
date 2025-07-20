@@ -25,6 +25,37 @@ Build a solid foundation to:
 | [profiling_case_04.md](EN/profiling_case_04.md)   | OSINT Report – Anonymous Client (online flower order)     | [profiling_cas_fictif_04.md](FR/profiling_cas_fictif_04.md) |
 
 ---
+## 🎯 What I Do
+
+As an OSINT freelancer, I help individuals and organizations investigate:
+ - Suspicious or anonymous profiles
+ - Digital footprints and social behaviors
+ -E-commerce scams and crypto frauds
+ - Vendor verification and online reputation issues
+ - China-based export scams and impersonation attempts
+
+---
+### 🇨🇳 China-related scams & e-commerce frauds 
+
+⏱️ Delivery: 2–4 days
+
+🔎 I specialize in investigating scams and false identities linked to China-based platforms.
+
+Common use cases:
+- You’ve placed an order on a Chinese website (AliExpress, DHgate, private seller…) and never received it
+- You’ve been contacted by a fake supplier or dropshipping partner (Alibaba, Wechat)
+- You need to verify a seller or check if a Chinese company really exists
+
+What I can do:
+- Deep company lookup in Chinese business databases (QCC, Tianyancha…)
+- Verification of WeChat/QQ/Weibo presence
+- Domain WHOIS + archive & hosting analysis (ICP license etc.)
+- Link analysis between product, site, and shipping sources
+- PDF report (EN/FR) with screenshot-based findings
+
+> Bonus: I lived in China, speak basic Chinese, and use native Chinese platforms (Wechat, QQ, Weibo) through a valid number.
+
+---
 
 ## ⚖️ Ethics & Legal Notice
 
