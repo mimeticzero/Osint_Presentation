@@ -89,6 +89,7 @@ Cas fréquents :
 - Commande passée sur un site chinois (AliExpress, DHgate, vendeur privé) non reçue
 - Faux fournisseur ou partenaire dropshipping sur Alibaba / WeChat
 - Vérification de l'existence d’une entreprise chinoise ou de sa légitimité
+  
 Méthodes utilisées :
 - Recherche d’entreprise dans les bases chinoises (Tianyancha, Qichacha…)
 - Vérification d’identité WeChat / QQ / Weibo
