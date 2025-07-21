@@ -30,9 +30,9 @@ Build a solid foundation to:
 As an OSINT freelancer, I help individuals and organizations investigate:
  - Suspicious or anonymous profiles
  - Digital footprints and social behaviors
- -E-commerce scams and crypto frauds
- - Vendor verification and online reputation issues
- - China-based export scams and impersonation attempts
+ - Romance scams, catfishing, crypto frauds
+ - Vendor legitimacy and online reputations
+ - China-based business scams and impersonations
 
 ---
 ## 🔍 Available Services (On-Demand)
@@ -99,6 +99,14 @@ All investigations in this repository:
 - Do not involve intrusion, hacking, or social engineering
 - Are not intended to harm, harass, or expose any target
 - Respect French and EU laws (GDPR, Penal Code, etc.)
+  
+---
+
+## 💬 Reports & Language Options
+
+- Reports delivered in English or French
+- Format: structured PDF with optional annexes
+- Sources include EU, US, and Chinese platforms
 
 ---
 
