@@ -40,13 +40,6 @@ As an OSINT freelancer, I help individuals and organizations investigate:
 
 These services are available via [Ko-fi](https://ko-fi.com/mimeticzero), [Fiverr]((https://fr.fiverr.com/lambo_drip)) or direct contact.
 
-| Service                    | Delivery Time | Price Range (EUR)  |
-|----------------------------|----------------|---------------------|
-| ✅ Quick Profile Check     | 48h            | 25–35 €             |
-| 📘 Standard OSINT Report   | 3–4 days       | 70–99 €             |
-| 🧠 Deep Profiling & Mapping| 5–7 days       | 150–199 €           |
-| ♻️ Monthly Monitoring      | Ongoing        | 50 €/month          |
-
 ➡️ To order, go to [Ko-fi](https://ko-fi.com/mimeticzero) or [email me directly](mailto:mimeticzero@protonmail.com).  
 ➡️ For custom investigations or long-term monitoring, contact me directly for a quote.
 
