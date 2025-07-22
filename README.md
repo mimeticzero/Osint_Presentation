@@ -45,8 +45,6 @@ These services are available via [Ko-fi](https://ko-fi.com/mimeticzero), [Fiverr
 ➡️ To order, go to [Ko-fi](https://ko-fi.com/mimeticzero) or [email me directly](mailto:mimeticzero@protonmail.com).  
 ➡️ For custom cases, bundles, or long-term monitoring, just reach out for a free quote.
 
----
-## 🔍 Available Prenium Services (On-Demand)
 
 ### ✅ Quick Profile Scan
 
