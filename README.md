@@ -29,74 +29,58 @@ Build a solid foundation to:
 
 As an OSINT freelancer, I help individuals and organizations investigate:
  - Suspicious or anonymous profiles
- - Digital footprints and social behaviors
+ - Crypto frauds, marketplace scams, e-commerce theft
  - Romance scams, catfishing, crypto frauds
- - Vendor legitimacy and online reputations
- - China-based business scams and impersonations
+ - Online reputation issues and impersonations
+ - China-based vendors and platform legitimacy
+ - Identity leaks and unauthorized use of content (including NSFW)
 
+All services are delivered remotely, ethically, and based only on open-source/public data. No interaction with targets, no hacking, no intrusion.
 ---
 
-## 💼 Standard OSINT Packages – At a Glance
+## 💼 OSINT Packages – At a Glance
 
 These services are available via [Ko-fi](https://ko-fi.com/mimeticzero), [Fiverr]((https://fr.fiverr.com/lambo_drip)) or direct contact.
 
 ➡️ To order, go to [Ko-fi](https://ko-fi.com/mimeticzero) or [email me directly](mailto:mimeticzero@protonmail.com).  
-➡️ For custom investigations or long-term monitoring, contact me directly for a quote.
+➡️ For custom cases, bundles, or long-term monitoring, just reach out for a free quote.
 
 ---
 ## 🔍 Available Prenium Services (On-Demand)
 
 ### ✅ Quick Profile Scan
 
-⏱️ Delivery: 48h
-
-Audit of a suspicious social media or dating profile
-
-→ Reverse image search, behavioral patterns, username/email trace, PDF report.
+A short investigation of a single identity or account (e.g. dating app, Telegram, Instagram). Includes footprint analysis, behavioral check, username trace, and a PDF summary.
 
 ### 🧠 Full Digital Audit
 
-⏱️ Delivery: 3–4 days
+Comprehensive scan of 1 to 3 linked profiles or identities across platforms. Detect fake activity, hidden connections, trace inconsistencies, and review digital hygiene.
 
-Analysis of up to 3 linked identities/accounts
+### 📌 Advanced Profiling & Network Mapping
 
-→ Timeline reconstruction, cross-platform checks, inconsistencies, structured report.
-
-### 📌 Deep Profiling & Network Mapping
-
-⏱️ Delivery: 5–7 days
-
-Investigation with relationship graphing and digital trace mapping
-
-→ Redirect analysis, leaks, metadata review, annexed evidence.
+In-depth OSINT investigation with connection analysis, timeline reconstruction, cross-platform alias tracing, and a visual “Maltego-style” relationship graph.
 
 ### ♻️ Monthly Monitoring
 
-Ongoing watch on an identity (self or target)
+Passive watch on a person, alias or brand. Monthly report includes PimEyes monitoring, new leak alerts, domain mentions, username/email tracking, and threat intelligence.
 
-→ PimEyes scan, leak alerting, email/username watch, monthly digest.
+### 🇨🇳 China & E-commerce Verification
 
----
+Specialized research for B2B/B2C frauds linked to Asia (e.g. AliExpress, DHGate, WeChat vendors).
+Includes domain tracing, Chinese business registry search (QCC, Tianyancha), seller verification, hosting & ICP data, product chain and scam signal analysis.
 
-### 🇨🇳 China-related scams & e-commerce frauds 
+### 💸 Marketplace Scam Check
 
-⏱️ Delivery: 2–4 days
+OSINT scan on a seller profile (Facebook Marketplace, Vinted, LeBonCoin, Etsy...).
+Detect image reuse, feedback manipulation, suspicious patterns, and delivery risks.
 
-🔎 I specialize in investigating scams and false identities linked to China-based platforms.
+### 🔞 Content Leak & Impersonation Check (NSFW-friendly)
 
-Common use cases:
-- You’ve placed an order on a Chinese website (AliExpress, DHgate, private seller…) and never received it
-- You’ve been contacted by a fake supplier or dropshipping partner (Alibaba, Wechat)
-- You need to verify a seller or check if a Chinese company really exists
+Service for OnlyFans/NSFW creators: scan for reposts, fake accounts, stolen content, and leaks on indexing sites, forums, or dark web mirrors. Delivered as an anonymized PDF.
 
-What I can do:
-- Deep company lookup in Chinese business databases (QCC, Tianyancha…)
-- Verification of WeChat/QQ/Weibo presence
-- Domain WHOIS + archive & hosting analysis (ICP license etc.)
-- Link analysis between product, site, and shipping sources
-- PDF report (EN/FR) with screenshot-based findings
+### 🚨 Urgent Micro Check
 
-> Bonus: I lived in China, speak basic Chinese, and use native Chinese platforms (Wechat, QQ, Weibo) through a valid number.
+A fast, express scan of one identity or case — ideal if you’re unsure about someone and want a quick, ethical read before acting.
 
 ---
 
