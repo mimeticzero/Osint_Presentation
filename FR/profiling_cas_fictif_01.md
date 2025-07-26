@@ -1,7 +1,7 @@
-# 🧑‍💻 Rapport OSINT – Profil fictif : “Léa V.”
+#  Rapport OSINT – Profil fictif : “Léa V.”
 
-## 📅 Date : 30/06/2025  
-## 🔍 Contexte de la demande :
+##  Date : 30/06/2025  
+##  Contexte de la demande :
 Le client a échangé avec une certaine “Léa V.” sur une application de rencontre.  
 Il suspecte que le profil soit faux, car :
 - Peu d’informations concrètes
@@ -15,7 +15,7 @@ Le client fournit :
 
 ---
 
-## 🧾 Sources utilisées :
+##  Sources utilisées :
 - Google (classique + dorks)
 - Google Images + Yandex + TinEye
 - Instagram, Facebook, Twitter
@@ -25,7 +25,7 @@ Le client fournit :
 
 ---
 
-## 🧠 Résumé des résultats :
+##  Résumé des résultats :
 
 | Élément analysé | Résultat | Commentaire |
 |-----------------|----------|-------------|
@@ -37,26 +37,26 @@ Le client fournit :
 
 ---
 
-## 📂 Détails de l’enquête :
+##  Détails de l’enquête :
 
-### 1. 🔍 Recherche par image
-- 📷 Photo trouvée sur un compte Instagram d’une mannequin ukrainienne (nom réel : Viktoria S.)
-- 📍 Source : https://instagram.com/viktoria____s
+### 1.  Recherche par image
+-  Photo trouvée sur un compte Instagram d’une mannequin ukrainienne (nom réel : Viktoria S.)
+-  Source : https://instagram.com/viktoria____s
 
-### 2. 🧑‍💻 Analyse du compte Instagram (@lea_vie.34)
+### 2.  Analyse du compte Instagram (@lea_vie.34)
 - 3 publications, toutes ajoutées en juin 2025
 - 80 abonnés, dont 60 à nom d’utilisateur suspect (“no profile pic”, “follow4follow”)
 - Aucun tag ou commentaire crédible
 - Aucune story, aucune géolocalisation
 
-### 3. 🧭 Recherche de traces publiques
+### 3.  Recherche de traces publiques
 - Aucun compte Facebook/LinkedIn crédible au nom de Léa V. à Montpellier
 - Aucun nom correspondant dans les publications locales, forums, articles
 - Whois / Archive : aucune trace d’un blog ou site personnel
 
 ---
 
-## 📝 Hypothèse finale :
+##  Hypothèse finale :
 
 > Le profil semble être un **faux compte**, probablement utilisé dans un cadre d’**arnaque émotionnelle** ou “Catfish”.
 
@@ -66,11 +66,11 @@ Le client fournit :
 
 ---
 
-## ⚖️ Recommandations :
+##  Recommandations :
 
-- ❌ Ne pas poursuivre l’interaction
-- ⚠️ Ne pas envoyer d’argent ou d’information personnelle
-- ✅ Signaler le compte à Instagram comme “usurpation”
+-  Ne pas poursuivre l’interaction
+-  Ne pas envoyer d’argent ou d’information personnelle
+-  Signaler le compte à Instagram comme “usurpation”
 
 ---
 
