@@ -62,7 +62,7 @@ In-depth OSINT investigation with connection analysis, timeline reconstruction, 
 
 Passive watch on a person, alias or brand. Monthly report includes PimEyes monitoring, new leak alerts, domain mentions, username/email tracking, and threat intelligence.
 
-### 🇨🇳 China & E-commerce Verification
+### China & E-commerce Verification
 
 Specialized research for B2B/B2C frauds linked to Asia (e.g. AliExpress, DHGate, WeChat vendors).
 Includes domain tracing, Chinese business registry search (QCC, Tianyancha), seller verification, hosting & ICP data, product chain and scam signal analysis.
