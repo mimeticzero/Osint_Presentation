@@ -29,11 +29,11 @@ Le client fournit :
 
 | Élément analysé | Résultat | Commentaire |
 |-----------------|----------|-------------|
-| 📷 Photo de profil | 🔴 FAUX | Appartient à une influenceuse ukrainienne (trouvé via Yandex) |
-| 📱 Compte Instagram | 🟠 Suspect | Activité incohérente, 3 photos, followers indiens, pas d’amis locaux |
-| 👩 Identité “Léa V.” à Montpellier | 🔴 Introuvable | Aucun lien concret trouvé sur LinkedIn, Facebook ou annuaires |
-| 📧 Adresse e-mail (si testée) | 🟢 Aucun leak détecté | Compte propre, mais récent |
-| 🗓️ Historique présence en ligne | 🔴 Très récent | Profil créé il y a 1 mois max (d’après archives et activité) |
+|  Photo de profil | 🔴 FAUX | Appartient à une influenceuse ukrainienne (trouvé via Yandex) |
+|  Compte Instagram | 🟠 Suspect | Activité incohérente, 3 photos, followers indiens, pas d’amis locaux |
+|  Identité “Léa V.” à Montpellier | 🔴 Introuvable | Aucun lien concret trouvé sur LinkedIn, Facebook ou annuaires |
+|  Adresse e-mail (si testée) | 🟢 Aucun leak détecté | Compte propre, mais récent |
+|  Historique présence en ligne | 🔴 Très récent | Profil créé il y a 1 mois max (d’après archives et activité) |
 
 ---
 
