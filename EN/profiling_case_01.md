@@ -1,7 +1,7 @@
-# 🧑‍💻 OSINT Report – Fictional Profile: “Léa V.”
+# OSINT Report – Fictional Profile: “Léa V.”
 
-## 📅 Date: 06/30/2025  
-## 🔍 Request Context:
+## Date: 06/30/2025  
+## Request Context:
 The client interacted with someone named “Léa V.” on a dating app.  
 They suspect the profile may be fake, due to:
 - Very limited information
@@ -16,7 +16,7 @@ Client provided:
 
 ---
 
-## 🧾 Sources Used:
+## Sources Used:
 - Google (standard + dorks)
 - Google Images, Yandex, TinEye
 - Instagram, Facebook, Twitter
@@ -26,38 +26,38 @@ Client provided:
 
 ---
 
-## 🧠 Summary of Findings:
+## Summary of Findings:
 
 | Element Analyzed | Result | Comment |
 |------------------|--------|---------|
-| 📷 Profile photo | 🔴 FAKE | Belongs to a Ukrainian influencer (found via Yandex) |
-| 📱 Instagram account | 🟠 Suspicious | Incoherent activity, only 3 posts, many fake-looking followers |
-| 👩 Identity “Léa V.” in Montpellier | 🔴 Not found | No matching result on LinkedIn, Facebook, or directories |
-| 📧 Email address (if tested) | 🟢 Clean | No known leak, but newly created |
-| 🗓️ Online activity history | 🔴 Very recent | Account seems created within the last month |
+| Profile photo | 🔴 FAKE | Belongs to a Ukrainian influencer (found via Yandex) |
+| Instagram account | 🟠 Suspicious | Incoherent activity, only 3 posts, many fake-looking followers |
+| Identity “Léa V.” in Montpellier | 🔴 Not found | No matching result on LinkedIn, Facebook, or directories |
+| Email address (if tested) | 🟢 Clean | No known leak, but newly created |
+| Online activity history | 🔴 Very recent | Account seems created within the last month |
 
 ---
 
-## 📂 Investigation Details:
+## Investigation Details:
 
-### 1. 🔍 Reverse Image Search
-- 📷 The photo was found on the Instagram account of a Ukrainian model (real name: Viktoria S.)
-- 📍 Source: https://instagram.com/viktoria____s
+### 1. Reverse Image Search
+- The photo was found on the Instagram account of a Ukrainian model (real name: Viktoria S.)
+- Source: https://instagram.com/viktoria____s
 
-### 2. 🧑‍💻 Instagram Profile Analysis (@lea_vie.34)
+### 2. Instagram Profile Analysis (@lea_vie.34)
 - 3 posts, all added in June 2025
 - 80 followers, mostly with suspicious usernames (“no profile pic”, “follow4follow”)
 - No tags, no legitimate comments
 - No stories or location tags
 
-### 3. 🧭 Public Trace Search
+### 3. Public Trace Search
 - No matching Facebook/LinkedIn profiles for “Léa V.” in Montpellier
 - No mention in local forums, articles, or community listings
 - No blog or personal website found via Whois or Archive
 
 ---
 
-## 📝 Final Hypothesis:
+## Final Hypothesis:
 
 > The profile appears to be a **fake account**, likely used in the context of a **romance scam** or **catfishing attempt**.
 
@@ -67,15 +67,15 @@ Client provided:
 
 ---
 
-## ⚖️ Recommendations:
+## Recommendations:
 
-- ❌ Do not continue the interaction
-- ⚠️ Do not send any money or personal information
-- ✅ Report the account to Instagram for impersonation
+- Do not continue the interaction
+- Do not send any money or personal information
+- Report the account to Instagram for impersonation
 
 ---
 
-## 📁 Attachments (as an exemple):
+## Attachments (as an exemple):
 
 - `captures/photo_match_yandex.png`
 - `captures/instagram_profile.png`
@@ -83,7 +83,7 @@ Client provided:
 
 ---
 
-## ⚠️ Legal Disclaimer:
+## Legal Disclaimer:
 
 > This report is based solely on publicly accessible data available at the time of analysis.  
 > No hacking, intrusion, or direct interaction with the subject was performed.  
