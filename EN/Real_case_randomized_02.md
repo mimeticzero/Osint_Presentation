@@ -11,7 +11,7 @@
 
 ---
 
-## 🧭 Context of the Request
+## Context of the Request
 
 The client reached out due to growing concerns regarding a close relative (the mother-in-law, hereafter referred to as **MIL**) who appears to be emotionally entangled in a complex and possibly fabricated narrative involving a woman named “J***a,” based in Australia.
 
@@ -31,7 +31,7 @@ Several of these were allegedly involved in criminal cases or medical care, but 
 
 ---
 
-## 🎯 Goal of the OSINT Investigation
+## Goal of the OSINT Investigation
 
 To:
 
@@ -40,11 +40,11 @@ To:
 - Assess whether the MIL may be caught in an elaborate and damaging deception
 ---
 
-## 1. 📥 Information Received
+## 1. Information Received
 
 Throughout the investigation, the client provided the following details and claims, based on statements made by the individual known as "J***a" and observed by the mother-in-law (MIL):
 
-### 👥 Key People Mentioned
+### Key People Mentioned
 
 - **J***a Tucker**: Woman in her early 40s, living in Australia with husband and three children. Central figure in the narrative.
 
@@ -65,7 +65,7 @@ Throughout the investigation, the client provided the following details and clai
 
 ---
 
-### 📚 Events / Claims Reported
+### Events / Claims Reported
 
 - J***a has claimed repeated SA (sexual assault) incidents by different individuals.
 - A notable SA claim occurred in 2021, supposedly resulting in a **court case and a 30-year sentence** for J***f P***t.
@@ -76,7 +76,7 @@ Throughout the investigation, the client provided the following details and clai
 
 ---
 
-### 🚩 Red Flags Identified by Client
+### Red Flags Identified by Client
 
 - Multiple characters **cannot be verified** via any official (medical, legal, public) channel.
 - Excuses include:  
@@ -89,19 +89,19 @@ Throughout the investigation, the client provided the following details and clai
 
 ---
 
-## 2. 🕵️ Detailed Profile Breakdown
+## 2. Detailed Profile Breakdown
 
-### 🔹 J***a L****n
+### J***a L****n
 
 - **Claimed Identity**: Therapist who allegedly developed a romantic connection with the MIL and died in April 2024.
 
-#### 🧭 Digital Presence:
+#### Digital Presence:
 - Facebook profile found.
 - Only one public photo (2021), high resolution, appears too youthful for someone born in 1974.
 - Only 2 friends. One comment by “Terri Fleischman” suggests deletion of photo.
 - No obituary, death record, or professional trace in any country.
 
-#### 🚩 Red Flags:
+#### Red Flags:
 - Profile shows hallmarks of a **fictional or semi-fake account**:
   - Low activity
   - No timeline
@@ -110,76 +110,76 @@ Throughout the investigation, the client provided the following details and clai
 
 ---
 
-### 🔹 J***f P***t
+### J***f P***t
 
 - **Claimed Identity**: Psychiatrist, allegedly sentenced to 30 years in 2022 for running an illegal S&M clinic and SA.
 
-#### 🧭 Digital Presence & Verification:
+#### Digital Presence & Verification:
 - Email `jeff.plait@protonmail.com` is active (confirmed via SMTP handshake).
 - No press coverage, legal database entry, or arrest records found in Australia.
 - No licensing or registry matches for medical professionals with that name.
 
-#### 🚩 Red Flags:
+#### Red Flags:
 - A 30-year sentence for SA and illegal medical practice **would be publicized** — no record exists.
 - No evidence supports this narrative.
 - Likely a **fabricated persona**.
 
 ---
 
-### 🔹 R*** A**
+### R*** A**
 
 - **Claimed Identity**: Gynecologist who treated J***a and communicated graphic surgical info to the MIL.
 
-#### 🧭 Digital & Legal Trace:
+#### Digital & Legal Trace:
 - No verified medical license or registration in Australia.
 - Reverse image searches on alleged medical content yield no results.
 
-#### 🚩 Red Flags:
+#### Red Flags:
 - Sending explicit surgical images to a third party **violates medical ethics** and legal standards.
 - Content described as “dark web-style,” likely intended to shock or manipulate.
 
 ---
 
-### 🔹 R* A*s
+### R* A*s
 
 - **Claimed Identity**: Legal representative for J***a.
 
-#### 🧭 Verification:
+#### Verification:
 - No registration in the Australian legal profession.
 - No digital trace or official case references.
 
-#### 🚩 Red Flags:
+#### Red Flags:
 - Unverifiable identity, no public record.
 
 ---
 
-### 🔹 J**e Co**
+### J**e Co**
 
 - **Claimed Identity**: Nurse involved in J***a’s care.
 
-#### 🧭 Facebook Profile:
+#### Facebook Profile:
 - 1 friend, no profile picture, no visible activity.
 
-#### 🚩 Red Flags:
+#### Red Flags:
 - Fits pattern of **placeholder or fake profile**.
 - J***a’s justification that “Australians don’t use social media” is demonstrably false.
 
 ---
 
-### 🔹 T***i F*****an
+### T***i F*****an
 
 - **Role**: Only known person to comment on J***a L****n’s profile photo.
 
-#### 🧭 Findings:
+#### Findings:
 - Appears to be a **real individual**, but **no confirmed connection** to the narrative.
 
 ---
 
-## 3. 🔍 OSINT Investigation Steps
+## 3. OSINT Investigation Steps
 
 ### 1️⃣ Name Search in Australian Registers
 
-#### 🏥 Medical Registers (ahpra.gov.au)
+#### Medical Registers (ahpra.gov.au)
 Searched for:
 - “J***f P***t”
 - “R*** A**”
@@ -187,7 +187,7 @@ Searched for:
 
 > **Result**: No listings found for psychiatrists, gynecologists, or legal representatives under these names in any Australian state.
 
-#### ⚖️ Legal Registers (Law Society Directory, AUSTRAC)
+#### Legal Registers (Law Society Directory, AUSTRAC)
 - “R* A*s” not found in Australian lawyer registries.
 - Variants like “Addams”, “R. Adams” → No match.
 
@@ -211,7 +211,7 @@ Claim: **J***a L****n died February 4, 2024**
 - Sources checked:  
   `legacy.com`, `findagrave.com`, Australian obituary indexes.
 
-#### 🔎 Name Variants Searched:
+#### Name Variants Searched:
 - “J****a V** L****n”
 - “J**h L****n”
 - “J. L****n”
@@ -222,7 +222,7 @@ Claim: **J***a L****n died February 4, 2024**
 
 ### 3️⃣ Reverse Image Search
 
-#### 📷 Images pulled from Facebook:
+#### Images pulled from Facebook:
 - Profile photo (200x200 px, blurry):  
   Tested on Google Images, Yandex, Bing, PimEyes → **No matches**
 
@@ -288,7 +288,7 @@ Searched:
 
 ---
 
-## 4. 📋 Summary Table – Key Characters & Findings
+## 4. Summary Table – Key Characters & Findings
 
 | Name / Alias     | Claimed Role / Context                       | OSINT Findings                                                | Likelihood of Being Real            |
 |------------------|----------------------------------------------|----------------------------------------------------------------|-------------------------------------|
@@ -303,7 +303,7 @@ Searched:
 
 ---
 
-## 5. ✅ Conclusion
+## 5. Conclusion
 
 After thorough OSINT investigations, cross-checks with public databases, and reverse-image analysis, there is **overwhelming evidence** that most of the individuals in this story — especially those tied to **medical, legal, or criminal elements** — are either **fabricated or unverifiable**.
 
@@ -321,7 +321,7 @@ This aligns with known patterns of **long-term emotional manipulation** and **di
 
 ---
 
-## 6. 🛡️ Recommendations
+## 6. Recommendations
 
 - **Do NOT confront J***a directly** — confrontation could escalate manipulation or emotional distress for the MIL.
 
@@ -343,7 +343,7 @@ This aligns with known patterns of **long-term emotional manipulation** and **di
 
 ---
 
-## ⚠️ Legal Disclaimer
+## Legal Disclaimer
 
 > This report is based solely on **publicly accessible data** at the time of investigation.  
 > No direct interaction, intrusion, or manipulation was performed.  
