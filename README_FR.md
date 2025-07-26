@@ -1,10 +1,10 @@
-# 🕵️ OSINT Profiling Toolkit
+# OSINT Profiling Toolkit
 
 Ce dépôt contient mes outils, modèles et études de cas pour la réalisation d'enquêtes OSINT (Open Source Intelligence) dans un cadre légal, éthique et professionnel.
 
 ---
 
-## 📌 Objectif
+## Objectif
 
 Créer une base de travail solide pour :
 - Réaliser des **missions de profiling numérique**
@@ -13,7 +13,7 @@ Créer une base de travail solide pour :
 
 ---
 
-## 🧰 Repository Content – EN / FR (Real & Fictional Cases)
+## Repository Content – EN / FR (Real & Fictional Cases)
 
 | Repo EN – File Name                               | Case Title                                               | Repo FR – Fichier correspondant                             |
 |---------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------|
@@ -26,7 +26,7 @@ Créer une base de travail solide pour :
 
 ---
 
-## ⚖️ Éthique et cadre légal
+## Éthique et cadre légal
 
 Toutes les recherches menées via cette méthodologie :
 - Se basent uniquement sur des **informations accessibles publiquement**
@@ -36,7 +36,7 @@ Toutes les recherches menées via cette méthodologie :
 
 ---
 
-##🎯 Services proposés :
+## Services proposés :
 En tant que freelance OSINT, j’aide particuliers et organisations à enquêter sur :
  - Des profils suspects ou anonymes
  - Des traces numériques et comportements en ligne
@@ -46,32 +46,32 @@ En tant que freelance OSINT, j’aide particuliers et organisations à enquêter
 
 ---
 
-##🔍 Services disponibles à la demande
+## Services disponibles à la demande
 
-### ✅ Scan de profil rapide
-⏱️ Délai : 48h
+### Scan de profil rapide
+Délai : 48h
 
 Analyse express d’un profil douteux (Instagram, Telegram, Tinder, etc.)
 
 → Recherche d’images inversées, analyse comportementale, empreintes publiques, rapport PDF.
 
-### 🧠 Audit numérique complet
+### Audit numérique complet
 
-⏱️ Délai : 3–4 jours
+Délai : 3–4 jours
 
 Analyse de 1 à 3 identités liées (réseaux, leaks, historique, incohérences)
 
 → Reconstruction de timeline, multi-plateforme, rapport structuré.
 
-### 📌 Profilage avancé & cartographie réseau
+### Profilage avancé & cartographie réseau
 
-⏱️ Délai : 5–7 jours
+Délai : 5–7 jours
 
 Enquête poussée avec visualisation réseau, analyses croisées, hypothèses
 
 → Graph de liens (type Maltego), analyse de redirection, annexes & captures.
 
-### ♻️ Veille mensuelle
+### Veille mensuelle
 
 Surveillance continue d’un compte ou d’une cible (ou auto-veille)
 
@@ -79,9 +79,9 @@ Surveillance continue d’un compte ou d’une cible (ou auto-veille)
 
 ---
 
-## 🇨🇳 Arnaques liées à la Chine & vérification e-commerce
+## Arnaques liées à la Chine & vérification e-commerce
 
-⏱️ Délai : 2–4 jours
+Délai : 2–4 jours
 
 Je suis spécialisé dans les enquêtes liées à la Chine, notamment :
 
@@ -101,15 +101,15 @@ Méthodes utilisées :
 
 ---
 
-## 📬 Contact
+## Contact
 
 Projet porté par un analyste freelance OSINT (profil technique : dev/QA reconverti).
 
 Pour commander une offre ou poser une question :  
-📮 mimeticzero@protonmail.com  
-🌐 [GitHub](https://github.com/mimeticZero) – [Ko-fi](https://ko-fi.com/mimeticzero) – [Notion](https://nickel-cress-2fe.notion.site/MimeticZero-Freelance-OSINT-Analyst-226539e78ced804b870aed4cd93cea77?source=copy_link)
+ mimeticzero@protonmail.com  
+ [GitHub](https://github.com/mimeticZero) – [Ko-fi](https://ko-fi.com/mimeticzero) – [Notion](https://nickel-cress-2fe.notion.site/MimeticZero-Freelance-OSINT-Analyst-226539e78ced804b870aed4cd93cea77?source=copy_link)
 
-> 🕵️ Tous les services sont confidentiels, 100 % légaux, et réalisés à distance.
+>  Tous les services sont confidentiels, 100 % légaux, et réalisés à distance.
 ---
 
 > “La meilleure source, c’est celle que tout le monde ignore.” – Anonyme OSINT
