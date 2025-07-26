@@ -1,12 +1,12 @@
-# 🧑‍💻 Rapport OSINT – [Candidat(e) anonyme ayant postulé à une offre en ligne]
+#  Rapport OSINT – [Candidat(e) anonyme ayant postulé à une offre en ligne]
 
-## 📅 Date : 04/07/2025  
-## 🔍 Contexte de la demande :
+##  Date : 04/07/2025  
+##  Contexte de la demande :
 > Un utilisateur souhaite vérifier la légitimité d’un site web (`affinita.agency`) sur lequel il a postulé à une offre d’emploi. Il a communiqué ses informations personnelles (nom, ville, âge) mais n’a reçu qu’une réponse vague. Le doute persiste quant à une éventuelle arnaque ou usurpation.
 
 ---
 
-## 🧾 Sources utilisées :
+##  Sources utilisées :
 
 - [x] Google / Bing / Dorks  
 - [ ] Google Images, Yandex, TinEye  
@@ -18,7 +18,7 @@
 
 ---
 
-## 🧠 Résumé des résultats :
+##  Résumé des résultats :
 
 | Élément analysé         | Statut   | Commentaire court                                       |
 |-------------------------|----------|----------------------------------------------------------|
@@ -30,26 +30,26 @@
 
 ---
 
-## 📂 Détails de l’enquête :
+##  Détails de l’enquête :
 
-### 1. 🔍 Image(s) de profil
+### 1.  Image(s) de profil
 - Non applicable (pas d’image de personne ou de profil social analysé)
 
-### 2. 🧑‍💻 Réseaux sociaux
+### 2.  Réseaux sociaux
 - Aucun réseau social identifié lié au domaine
 - Aucune page officielle ou activité sociale trouvée
 
-### 3. 📧 Adresse e-mail / pseudo
+### 3.  Adresse e-mail / pseudo
 - Adresse WHOIS : `aaaffb5c05e70717ca@privacyprotect.org`
 - Adresse anonymisée, non liée à une entreprise identifiable
 - Aucun lien trouvé dans les bases de données publiques connues
 
-### 4. 🗺️ Localisation (si applicable)
+### 4. 🗺 Localisation (si applicable)
 - IP du site hébergée en Ukraine (Kyiv)
 - Aucune mention géographique sur le site lui-même
 - Aucun lien géographique avec l’identité utilisée
 
-### 5. 🗃️ Autres informations trouvées
+### 5.  Autres informations trouvées
 - Le site n’affiche aucune **mention légale**, ni coordonnées
 - Le nom de domaine a été enregistré récemment (2024)
 - Sur Reddit, plusieurs témoignages évoquent une arnaque à l’emploi utilisant un faux job dans la tech/dating
@@ -57,7 +57,7 @@
 
 ---
 
-## 🧠 Hypothèse finale :
+##  Hypothèse finale :
 
 > Le site `affinita.agency` présente des éléments caractéristiques d’un site frauduleux.  
 > Il utilise un design professionnel et une marque ressemblant à une entreprise réelle pour inspirer confiance, mais **aucun élément légal, structurel ou numérique ne permet de confirmer son authenticité**.  
@@ -65,7 +65,7 @@
 
 ---
 
-## ⚖️ Recommandations :
+##  Recommandations :
 
 - [x] Ne plus fournir d’informations personnelles  
 - [x] Signaler le site aux autorités compétentes (ex : internet-signalement.gouv.fr)  
@@ -74,7 +74,7 @@
 
 ---
 
-## 📁 Annexes :
+##  Annexes :
 
 - `captures/` : Captures du site (page d’accueil, formulaire, absence de mentions légales)  
 - `sources.txt` :  
@@ -87,7 +87,7 @@
 
 ---
 
-## ⚠️ Clause de responsabilité :
+##  Clause de responsabilité :
 
 > Ce rapport repose uniquement sur l’analyse de données publiques accessibles légalement à la date de l’enquête.  
 > Aucune interaction ou intrusion avec la cible n’a été effectuée.  
