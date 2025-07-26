@@ -1,13 +1,13 @@
 
-# 🧑‍💻 OSINT Report – [Anonymous job applicant]
+#  OSINT Report – [Anonymous job applicant]
 
-## 📅 Date: 07/04/2025  
-## 🔍 Case overview:
+##  Date: 07/04/2025  
+##  Case overview:
 > The subject submitted an application to a website (`affinita.agency`) advertising a remote job opportunity. Personal details were shared (name, age, city), but the subject received only vague responses and became suspicious. The objective was to verify the legitimacy of the site and assess the risk of fraud or data misuse.
 
 ---
 
-## 🧾 Sources used:
+##  Sources used:
 
 - [x] Google / Bing / Dorks  
 - [ ] Google Images, Yandex, TinEye  
@@ -19,7 +19,7 @@
 
 ---
 
-## 🧠 Summary of findings:
+##  Summary of findings:
 
 | Analyzed element        | Status   | Short comment                                       |
 |-------------------------|----------|-----------------------------------------------------|
@@ -31,26 +31,26 @@
 
 ---
 
-## 📂 Investigation details:
+##  Investigation details:
 
-### 1. 🔍 Profile picture(s)
+### 1. Profile picture(s)
 - Not applicable – no personal images or avatars involved.
 
-### 2. 🧑‍💻 Social media presence
+### 2.  Social media presence
 - No official or personal social profiles found linked to the domain.
 - No company social accounts detected.
 
-### 3. 📧 Email / username
+### 3. Email / username
 - WHOIS contact: `aaaffb5c05e70717ca@privacyprotect.org`
 - Email is anonymized, commonly seen in domain registrations using privacy shields.
 - No leaks or matches found in public databases.
 
-### 4. 🗺️ Geolocation (if applicable)
+### 4. Geolocation (if applicable)
 - IP geolocated to Ukraine (Kyiv)
 - Website does not mention any specific address, country, or legal entity.
 - No geographic correlation with the applicant.
 
-### 5. 🗃️ Additional intelligence
+### 5. Additional intelligence
 - No legal notice or company identification on the site (in violation of EU regulations)
 - Domain is new (registered in 2024) and protected via privacy services
 - Reddit thread reports a nearly identical case of suspected employment scam linked to the same domain
@@ -58,7 +58,7 @@
 
 ---
 
-## 🧠 Final assessment:
+## Final assessment:
 
 > The site `affinita.agency` exhibits multiple red flags commonly associated with **employment fraud or data harvesting schemes**.  
 > While visually professional, it lacks any legal disclosures, confirmed business registration, or traceable online identity.  
@@ -66,7 +66,7 @@
 
 ---
 
-## ⚖️ Recommendations:
+## Recommendations:
 
 - [x] Do not share any further personal information  
 - [x] Report the site to relevant authorities (e.g. internet-signalement.gouv.fr or Pharos)  
@@ -75,7 +75,7 @@
 
 ---
 
-## 📁 Attachments:
+## Attachments:
 
 - `captures/` : Screenshots of website (homepage, job form, lack of legal pages)  
 - `sources.txt` :  
@@ -88,7 +88,7 @@
 
 ---
 
-## ⚠️ Disclaimer:
+## Disclaimer:
 
 > This report is based solely on publicly available, legally accessible information at the time of the investigation.  
 > No direct interaction or intrusion with the target was performed.  
