@@ -1,8 +1,8 @@
 # Rapport OSINT – Analyse de redirection vers contenu OnlyFans
 
-## 📅 Date : 30/06/2025
+##  Date : 30/06/2025
 
-## 🔍 Contexte de la demande :
+##  Contexte de la demande :
 Analyse d’un DM Instagram reçu via le compte @hannah.guy_ig, soupçonné de faire partie d’un réseau de faux profils utilisés pour promouvoir un compte OnlyFans.
 
 ---
@@ -16,7 +16,7 @@ Analyse d’un DM Instagram reçu via le compte @hannah.guy_ig, soupçonné de f
 
 ## 2. Recherche des profils
 
-### 🔹 `@hannah.guy_ig`
+###  `@hannah.guy_ig`
 - Compte public
 - 400 abonnés / 800 suivis (principalement des hommes)
 - Dernier post visible : il y a 206 semaines (~4 ans)
@@ -25,14 +25,14 @@ Analyse d’un DM Instagram reçu via le compte @hannah.guy_ig, soupçonné de f
 
 **→ Hypothèse :** Compte dormant utilisé uniquement pour du DM automatisé
 
-### 🔹 `@its.hazeldee`
+###  `@its.hazeldee`
 - 35 000 abonnés, 282 suivis (exclusivement féminins)
 - Dernier post : 27 semaines (~6 mois)
 - Présence d’un lien OnlyFans en bio
 - Forte présence masculine parmi les followers
 - Aucun contenu interactif : peu de réponses, pas de stories récentes
 
-### 🔹 `@its_hazeldee`
+###  `@its_hazeldee`
 - Variante secondaire : mêmes photos, même nom
 - 8 000 abonnés
 - Lien identique vers OnlyFans
@@ -53,7 +53,7 @@ Analyse d’un DM Instagram reçu via le compte @hannah.guy_ig, soupçonné de f
 ![Capture d'écran 2025-07-01 222542](https://github.com/user-attachments/assets/08994388-70e6-413c-a894-ffb2ca5c8af7)
 
 
-## 5. 🧑‍💻 Analyse du compte Instagram
+## 5.  Analyse du compte Instagram
 
 - Le compte `@hannah.guy_ig`, inactif en public depuis plus de 200 semaines, est utilisé comme **appât DM**
 - `@its.hazeldee` et `@its_hazeldee` présentent :
@@ -68,7 +68,7 @@ Analyse d’un DM Instagram reçu via le compte @hannah.guy_ig, soupçonné de f
 
 ---
 
-## 6. 📝Conclusion
+## 6. Conclusion
 
 L’ensemble des éléments indique que `@hannah.guy_ig` est utilisé dans une **stratégie de marketing agressif ou de spam social**, servant à générer du trafic vers un compte OnlyFans bien réel (`hazel_dee`).
 
@@ -76,23 +76,23 @@ Il n’y a pas d’éléments confirmant une arnaque financière directe, mais *
 
 ---
 
-## 7. ⚖️ Recommandations
+## 7.  Recommandations
 
-- 🚫 Ne pas interagir avec ces comptes
-- 🚩 Signaler à Instagram comme spam / redirection frauduleuse
-- ✅ Bloquer les comptes si d'autres messages sont reçus
-- 🧾 Documenter le cas comme exemple OSINT de “profil passif recyclé”
+-  Ne pas interagir avec ces comptes
+-  Signaler à Instagram comme spam / redirection frauduleuse
+-  Bloquer les comptes si d'autres messages sont reçus
+-  Documenter le cas comme exemple OSINT de “profil passif recyclé”
 
 ---
 
-## 📁 Annexes 
+##  Annexes 
 - https://www.instagram.com/hannah.guy_ig/
 - https://www.instagram.com/its.hazeldee/
 - https://www.instagram.com/its_hazeldee/
 - https://onlyfans.com/hazel_dee
 
 ---
-## ⚠️ Disclaimer légal
+##  Disclaimer légal
 
 > Ce rapport est basé uniquement sur l’analyse de données accessibles publiquement à la date de l’enquête.  
 > Aucune interaction directe avec les comptes, aucune intrusion ni manipulation n’ont été effectuées.  
