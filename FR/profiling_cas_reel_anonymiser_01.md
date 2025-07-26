@@ -1,13 +1,13 @@
-# 🧑‍💻 Rapport OSINT – Retrouver un contact personnel aux États-Unis (Colorado)
+#  Rapport OSINT – Retrouver un contact personnel aux États-Unis (Colorado)
 
-## 📅 Date : 20/07/2025  
-## 🔍 Contexte de la demande :
+##  Date : 20/07/2025  
+##  Contexte de la demande :
 > Une cliente cherche à entrer en contact avec **GXXXXXt L SXXls**, un homme rencontré en 2024, avec qui elle aurait eu un enfant.  
 > Leur seule communication récente s’est faite via **Snapchat**. L’objectif est d’identifier un numéro, une adresse ou un moyen de contact fiable, dans le but éventuel de démarches légales (tests génétiques ou aide parentale).
 
 ---
 
-## 🧾 Sources utilisées :
+##  Sources utilisées :
 
 - [x] FastPeopleSearch / TruePeopleSearch  
 - [x] WhitePages / Zabasearch / Thatsthem  
@@ -18,7 +18,7 @@
 
 ---
 
-## 🧠 Résumé des résultats :
+## Résumé des résultats :
 
 | Élément analysé         | Statut   | Commentaire court                                               |
 |-------------------------|----------|------------------------------------------------------------------|
@@ -31,14 +31,14 @@
 
 ---
 
-## 📂 Détails de l’enquête :
+##  Détails de l’enquête :
 
-### 1. 🧑‍💻 Identité et prénom complet
+### 1.  Identité et prénom complet
 - Nom complet donné : **GXXXXXt L SXXls**  
 - Confirmé dans les bases publiques sous cette forme.  
 - Âge estimé : 28 ans, cohérent avec les déclarations du client et les résultats trouvés.
 
-### 2. 🏠 Adresse associée
+### 2.  Adresse associée
 - **Adresse principale trouvée** :  
   `XX Tecoma Cir, Littleton, CO 80127`  
   (Maison individuelle de type pavillonnaire, d’apparence familiale sur Google Street View)
@@ -49,13 +49,13 @@
 
 > Aucune autre adresse récente n’a pu être identifiée, malgré la mention d’un ancien logement à Colorado Springs.
 
-### 3. 📞 Téléphones
+### 3.  Téléphones
 - **(720) XXX-0X67** — souvent associé à cette adresse, mais le nom propriétaire diffère.
 - **(720) XXX-8X83** — lié à une entité appelée *Numbers Accounting Service, LLC* basée à la même adresse (peut appartenir à un membre de la famille).
 
-⚠️ Aucun de ces numéros n’est officiellement confirmé comme appartenant à Garrett, mais **tous deux sont associés à son environnement familial**.
+ Aucun de ces numéros n’est officiellement confirmé comme appartenant à Garrett, mais **tous deux sont associés à son environnement familial**.
 
-### 4. 🌐 Réseaux & présence en ligne
+### 4.  Réseaux & présence en ligne
 - **Facebook** : Compte actif [facebook.com/GXXXXXt.sXXls.SXXls](https://www.facebook.com/GXXXXXt.SXXls.2024) — peu de publications visibles, amis publics. Photo de profil assez récente.
 - **Medium** : Profil [GXXXXXt.medium.com](https://medium.com/@GXXXXXt) — aucune activité récente.
 - **Amazon** : Livre publié sous le nom “GXXXXXt L SXXls” : *HIDDEN* (2024) — semble confirmer la présence dans le Colorado.
@@ -64,7 +64,7 @@ Aucune trace de compte LinkedIn, Indeed ou autre profil professionnel (notamment
 
 ---
 
-## 🧠 Hypothèse finale :
+##  Hypothèse finale :
 
 > Il existe **un seul GXXXXXt L SXXls** correspondant à la tranche d’âge et au prénom complet.  
 > Il **vit très probablement encore à l’adresse familiale** mentionnée à Littleton, Colorado.  
@@ -73,7 +73,7 @@ Aucune trace de compte LinkedIn, Indeed ou autre profil professionnel (notamment
 
 ---
 
-## ⚖️ Recommandations :
+##  Recommandations :
 
 - [ ] Essayer de le **recontacter via Facebook Messenger ou Instagram** (compte actif).
 - [ ] Envisager d’envoyer un **courrier simple à l’adresse de Littleton** (neutre et poli, sans menace).
@@ -82,7 +82,7 @@ Aucune trace de compte LinkedIn, Indeed ou autre profil professionnel (notamment
 
 ---
 
-## 📁 Annexes (non mis sur git - confidentiel):
+##  Annexes (non mis sur git - confidentiel):
 
 - `captures/` : screenshots Facebook / Amazon / outils de recherche  
 - `data.txt` : numéros associés, extractions JSON  
@@ -91,7 +91,7 @@ Aucune trace de compte LinkedIn, Indeed ou autre profil professionnel (notamment
 
 ---
 
-## ⚠️ Clause de responsabilité :
+##  Clause de responsabilité :
 
 > Ce rapport est basé uniquement sur des données publiques et légales, sans interaction directe avec la cible.  
 > Les informations fournies ne sont pas des preuves formelles mais des **éléments d’orientation OSINT**, pouvant aider dans des démarches juridiques ou familiales.  
