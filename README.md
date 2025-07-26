@@ -1,10 +1,10 @@
-# 🕵️ OSINT Profiling Toolkit
+# OSINT Profiling Toolkit
 
 This repository contains my tools, templates, and case studies for conducting Open Source Intelligence (OSINT) investigations within a legal, ethical, and professional framework.
 
 ---
 
-## 📌 Purpose
+## Purpose
 
 Build a solid foundation to:
 
@@ -14,7 +14,7 @@ Build a solid foundation to:
 
 ---
 
-## 🧰 Repository Content – EN / FR (Real & Fictional Cases)
+## Repository Content – EN / FR (Real & Fictional Cases)
 
 | Repo EN – File Name                               | Case Title                                               | Repo FR – Fichier correspondant                             |
 |---------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------|
@@ -25,7 +25,7 @@ Build a solid foundation to:
 | [profiling_case_04.md](EN/profiling_case_04.md)   | OSINT Report – Anonymous Client (online flower order)     | [profiling_cas_fictif_04.md](FR/profiling_cas_fictif_04.md) |
 
 ---
-## 🎯 What I Do
+## What I Do
 
 As an OSINT freelancer, I help individuals and organizations investigate:
  - Suspicious or anonymous profiles
@@ -38,7 +38,7 @@ As an OSINT freelancer, I help individuals and organizations investigate:
 All services are delivered remotely, ethically, and based only on open-source/public data. No interaction with targets, no hacking, no intrusion.
 ---
 
-## 💼 OSINT Packages – At a Glance
+## OSINT Packages – At a Glance
 
 These services are available via [Ko-fi](https://ko-fi.com/mimeticzero), [Fiverr]((https://fr.fiverr.com/lambo_drip)) or direct contact.
 
@@ -46,19 +46,19 @@ These services are available via [Ko-fi](https://ko-fi.com/mimeticzero), [Fiverr
 ➡️ For custom cases, bundles, or long-term monitoring, just reach out for a free quote.
 
 
-### ✅ Quick Profile Scan
+### Quick Profile Scan
 
 A short investigation of a single identity or account (e.g. dating app, Telegram, Instagram). Includes footprint analysis, behavioral check, username trace, and a PDF summary.
 
-### 🧠 Full Digital Audit
+### Full Digital Audit
 
 Comprehensive scan of 1 to 3 linked profiles or identities across platforms. Detect fake activity, hidden connections, trace inconsistencies, and review digital hygiene.
 
-### 📌 Advanced Profiling & Network Mapping
+### Advanced Profiling & Network Mapping
 
 In-depth OSINT investigation with connection analysis, timeline reconstruction, cross-platform alias tracing, and a visual “Maltego-style” relationship graph.
 
-### ♻️ Monthly Monitoring
+### Monthly Monitoring
 
 Passive watch on a person, alias or brand. Monthly report includes PimEyes monitoring, new leak alerts, domain mentions, username/email tracking, and threat intelligence.
 
@@ -67,7 +67,7 @@ Passive watch on a person, alias or brand. Monthly report includes PimEyes monit
 Specialized research for B2B/B2C frauds linked to Asia (e.g. AliExpress, DHGate, WeChat vendors).
 Includes domain tracing, Chinese business registry search (QCC, Tianyancha), seller verification, hosting & ICP data, product chain and scam signal analysis.
 
-### 💸 Marketplace Scam Check
+### Marketplace Scam Check
 
 OSINT scan on a seller profile (Facebook Marketplace, Vinted, LeBonCoin, Etsy...).
 Detect image reuse, feedback manipulation, suspicious patterns, and delivery risks.
@@ -76,13 +76,13 @@ Detect image reuse, feedback manipulation, suspicious patterns, and delivery ris
 
 Service for OnlyFans/NSFW creators: scan for reposts, fake accounts, stolen content, and leaks on indexing sites, forums, or dark web mirrors. Delivered as an anonymized PDF.
 
-### 🚨 Urgent Micro Check
+### Urgent Micro Check
 
 A fast, express scan of one identity or case — ideal if you’re unsure about someone and want a quick, ethical read before acting.
 
 ---
 
-## ⚖️ Ethics & Legal Notice
+## Ethics & Legal Notice
 
 All investigations in this repository:
 
@@ -93,7 +93,7 @@ All investigations in this repository:
   
 ---
 
-## 💬 Reports & Language Options
+## Reports & Language Options
 
 - Reports delivered in English or French
 - Format: structured PDF with optional annexes
@@ -101,13 +101,13 @@ All investigations in this repository:
 
 ---
 
-## 📬 Contact
+## Contact
 
 Project maintained by a freelance OSINT analyst (technical background: former developer/QA).
 
 To request a service or ask a question:  
-📮 mimeticzero@protonmail.com  
-🌐 [GitHub](https://github.com/mimeticZero) – [Ko-fi](https://ko-fi.com/mimeticzero) – [Notion](https://nickel-cress-2fe.notion.site/MimeticZero-Freelance-OSINT-Analyst-226539e78ced804b870aed4cd93cea77?source=copy_link)
+ mimeticzero@protonmail.com  
+ [GitHub](https://github.com/mimeticZero) – [Ko-fi](https://ko-fi.com/mimeticzero) – [Notion](https://nickel-cress-2fe.notion.site/MimeticZero-Freelance-OSINT-Analyst-226539e78ced804b870aed4cd93cea77?source=copy_link)
 
 
 > “The best source is the one everyone overlooks.” – OSINT Anonymous
