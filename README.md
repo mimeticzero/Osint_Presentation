@@ -19,9 +19,9 @@ Build a solid foundation to:
 | Repo EN – File Name                               | Case Title                                               | Repo FR – Fichier correspondant                             |
 |---------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------|
 | [Real_case_randomized_01.md](EN/Real_case_randomized_01.md) | Locating a Personal Contact in the United States          | [profiling_cas_reel_anonymiser_01.md](FR/profiling_cas_reel_anonymiser_01.md) |
-| [profiling_case_01.md](EN/profiling_case_01.md)   | Locating a Personal Contact in the United States          | [profiling_cas_fictif_01.md](FR/profiling_cas_fictif_01.md) |
-| [profiling_case_02.md](EN/profiling_case_02.md)   | OSINT Report – Fictional Profile: “Léa V.”                | [profiling_cas_fictif_02.md](FR/profiling_cas_fictif_02.md) |
-| [profiling_case_03.md](EN/profiling_case_03.md)   | Analysis of Redirection to OnlyFans Content               | [profiling_cas_fictif_03.md](FR/profiling_cas_fictif_03.md) |
+| [profiling_case_01.md](EN/profiling_case_01.md)   | OSINT Report – Fictional Profile: “Léa V.”                | [profiling_cas_fictif_01.md](FR/profiling_cas_fictif_01.md) |
+| [profiling_case_02.md](EN/profiling_case_02.md)   | Analysis of Redirection to OnlyFans Content               | [profiling_cas_fictif_02.md](FR/profiling_cas_fictif_02.md) |
+| [profiling_case_03.md](EN/profiling_case_03.md)   | Anonymous job applicant                                   | [profiling_cas_fictif_03.md](FR/profiling_cas_fictif_03.md) |
 | [profiling_case_04.md](EN/profiling_case_04.md)   | OSINT Report – Anonymous Client (online flower order)     | [profiling_cas_fictif_04.md](FR/profiling_cas_fictif_04.md) |
 
 ---
